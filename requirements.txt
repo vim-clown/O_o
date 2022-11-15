@@ -1,0 +1,2 @@
+python_twitter==3.5
+twitter==1.19.6
