@@ -1,5 +1,5 @@
 import random, time, datetime
-from O_0 import api, softblock
+from O_o import api, softblock
 
 followers = api.GetFollowers(count=random(0, 69))
 flag = True
