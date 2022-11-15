@@ -1,1 +1,1 @@
-worker: python slowNuke.py
+worker: python purge.py
